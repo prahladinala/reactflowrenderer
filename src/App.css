@@ -1,0 +1,15 @@
+input {
+  padding: 5px;
+  font-size: large;
+}
+input:focus {
+  border: #9999ff;
+}
+button {
+  padding: 5px;
+  background-color: #9999ff;
+  border-color: #9999ff;
+  cursor: pointer;
+  font-size: large;
+  color: #fff;
+}
